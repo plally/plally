@@ -1,4 +1,4 @@
-### 🦊 hello
+### Hello
 
 I'm a Developer for [CFC Servers](https://github.com/cfc-servers)
 
